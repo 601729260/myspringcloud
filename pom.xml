@@ -16,5 +16,8 @@
     <module>myconfig</module>
     <module>myconfigclient</module>
     <module>mycloudbus</module>
+    <module>myzipkin</module>
+    <module>service-hi</module>
+    <module>service-miya</module>
   </modules>
 </project>
