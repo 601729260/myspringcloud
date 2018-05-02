@@ -20,5 +20,8 @@
     <module>service-hi</module>
     <module>service-miya</module>
     <module>myeurekaserver</module>
+    <module>myeurekaclient</module>
+    <module>myfeign</module>
+    <module>myribbon</module>
   </modules>
 </project>
