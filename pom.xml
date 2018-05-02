@@ -19,5 +19,6 @@
     <module>myzipkin</module>
     <module>service-hi</module>
     <module>service-miya</module>
+    <module>myeurekaserver</module>
   </modules>
 </project>
