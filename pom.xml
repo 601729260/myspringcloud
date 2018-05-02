@@ -23,5 +23,6 @@
     <module>myeurekaclient</module>
     <module>myfeign</module>
     <module>myribbon</module>
+    <module>myturbine</module>
   </modules>
 </project>
