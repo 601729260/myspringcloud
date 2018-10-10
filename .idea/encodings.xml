@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myconfig" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myconfigclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myeurekaclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myeurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myfeign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myjpahibernate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myspringboot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myturbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myzipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myzuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-miya" charset="UTF-8" />
+  </component>
+</project>

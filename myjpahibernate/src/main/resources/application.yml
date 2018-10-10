@@ -1,0 +1,15 @@
+server:
+    port: 8111
+    context-path: /Boot
+
+spring:
+ datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://172.28.1.6:3306/mamahao_price?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+    username: root
+    password: mamahao
+
+ jpa:
+    hibernate:
+        ddl-auto: update
+    show-sql: true

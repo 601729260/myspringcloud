@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myconfig" />
+        <module name="myconfigclient" />
+        <module name="myeurekaclient" />
+        <module name="myeurekaserver" />
+        <module name="myjpahibernate" />
+        <module name="myspringboot" />
+        <module name="myturbine" />
+        <module name="myzipkin" />
+        <module name="myzuul" />
+        <module name="service-feign" />
+        <module name="service-hi" />
+        <module name="service-miya" />
+        <module name="service-ribbon" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

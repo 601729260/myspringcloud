@@ -24,5 +24,6 @@
     <module>myfeign</module>
     <module>myribbon</module>
     <module>myturbine</module>
+      <module>myjpahibernate</module>
   </modules>
 </project>
